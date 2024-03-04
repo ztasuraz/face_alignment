@@ -1,0 +1,8 @@
+{
+  "dependencies": [
+    "cpptrace",
+    "fmt",
+    "opencv",
+    "eigen3"
+  ]
+}
